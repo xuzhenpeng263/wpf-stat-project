@@ -1,0 +1,6 @@
+# requirements.txt
+sympy
+numpy
+scipy
+matplotlib
+tqdm
